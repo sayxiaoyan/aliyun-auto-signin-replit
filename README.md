@@ -2,7 +2,7 @@
 
 # Aliyun Auto Signin On Replit
 
-![GitHub release](https://img.shields.io/github/v/release/sxbai/aliyun-auto-signin-replit)
+![GitHub release](https://img.shields.io/github/v/release/sayxiaoyan/aliyun-auto-signin-replit)
 
 项目用于replit自动实现阿里云盘的每日签到活动.  
 
